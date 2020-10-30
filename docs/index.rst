@@ -1,5 +1,5 @@
-Python Client for Google Maps Services TryDemo
-==============================================
+Python Client for Google Maps Services
+======================================
 
 :mod:`googlemaps` Module
 ------------------------
