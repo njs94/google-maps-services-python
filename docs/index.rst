@@ -1,5 +1,5 @@
-Python Client for Google Maps Services -- Naveen Demo
-=====================================================
+Python Client for Google Maps Services
+======================================
 
 :mod:`googlemaps` Module
 ------------------------
